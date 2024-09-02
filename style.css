@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.quote-container {
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: 150px;
+    box-shadow: 10px 10px rgb(32, 32, 32);
+  }
+
+  #quote{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: larger;
+  }
+
+  #author{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: large;
+  }
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    cursor: pointer;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+  }
